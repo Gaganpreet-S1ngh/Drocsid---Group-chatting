@@ -1,0 +1,19 @@
+{
+  "name": "drocsid---chatting-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "moment": "^2.30.1",
+    "socket.io": "^4.7.5"
+  }
+}
